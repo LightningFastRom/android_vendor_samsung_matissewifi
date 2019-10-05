@@ -111,6 +111,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libchromatix_imx175_preview.so:system/vendor/lib/libchromatix_imx175_preview.so \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libmmcamera_imx219.so:system/vendor/lib/libmmcamera_imx219.so \
+	vendor/samsung/matissewifi/proprietary/system/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so:system/vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libmmcamera_s5k3h5xa.so:system/vendor/lib/libmmcamera_s5k3h5xa.so \
 	vendor/samsung/matissewifi/proprietary/system/vendor/lib/libmmcamera_s5k4ecgx.so:system/vendor/lib/libmmcamera_s5k4ecgx.so \
